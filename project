@@ -24,3 +24,16 @@ Initally, we were planning to use the Hyperledger Fabric, but it's not compatibl
 
 workflow
 
+doctor stats-
+             disease reported-
+                              user conform diagnosis-
+                                          user confirm disease-
+                                                    approving doctors approve-
+                                                               approved diagnosis-
+                                                                        doctor start treatment-
+                                                                               treatment started-
+                                                                                     user confirms diagnosis-
+                                                                                              user confirms treatment-
+                                                                                                   again start from:-approving doctors approve in end
+                                                                                    
+                                                     
